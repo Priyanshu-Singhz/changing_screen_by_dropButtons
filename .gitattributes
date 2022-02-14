@@ -1,0 +1,4 @@
+*.c++ linguist-detectable=false
+*.Swift linguist-detectable=false
+*.html linguist-detectable=false
+*.dart inguist-detectable=true
